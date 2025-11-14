@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone👋, I'm Shreya Kantha</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/shreyakantha/shreyakantha/shreya-kantha.mp4"></div>
+<div align="center"> <img src="https://github.com/shreyakantha/shreyakantha/blob/main/shreya-kantha.mp4"></div>
 <h3 align="center">Frontend Developer in Progress</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3d58949d-f272-45c8-8d3f-20653dfae629">
 
