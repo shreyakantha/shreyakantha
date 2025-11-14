@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer in Progress</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/shreyakantha/shreyakantha/blob/main/coderAnimation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakantha"/><</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakantha"/></p>
 
 - 🔭 I’m currently working on [Tic-Tac-Toe Web Application](https://github.com/shreyakantha/SCT_WD_3)
 
