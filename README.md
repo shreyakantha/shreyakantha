@@ -25,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyakantha&show_icons=true&locale=en" alt="shreyakantha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakantha&" alt="shreyakantha" /></p>
-
-### 📈 My GitHub Contributions
-![Snake_animation](https://github.com/shreyakantha/shreyakantha/blob/output/github-contribution-grid-snake.svg)
