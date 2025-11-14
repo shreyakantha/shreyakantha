@@ -1,9 +1,7 @@
 <h1 align="center">Hey Everyone👋, I'm Shreya Kantha</h1>
 <div align="center"> <img src="https://github.com/shreyakantha/shreyakantha/blob/main/shreya-kantha.mp4" width="300"></div>
 <h3 align="center">Frontend Developer in Progress</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/1a9abe7d-b13c-4ede-a740-3f3081789995">
-![coderAnimation](https://github.com/user-attachments/assets/1a9abe7d-b13c-4ede-a740-3f3081789995)
-
+<img align="right" alt="coding" width="250" src="https://github.com/user-attachments/assets/1a9abe7d-b13c-4ede-a740-3f3081789995">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakantha" /> </p>
 
