@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone👋, I'm Shreya Kantha</h1>
-<div align="center"> <img src="https://github.com/shreyakantha/shreyakantha/blob/main/shreya-kantha.jpeg" width="300"></div>
+<div align="center"> <img src="https://github.com/shreyakantha/shreyakantha/blob/main/shreya-kantha.jpeg" width="500"></div>
 <h3 align="center">Frontend Developer in Progress</h3>
 <img align="right" alt="coding" width="250" src="https://github.com/user-attachments/assets/1a9abe7d-b13c-4ede-a740-3f3081789995">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakantha" /> </p>
+<p align="left"> <a href="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakantha"/></a> </p>
 
 - 🔭 I’m currently working on [Tic-Tac-Toe Web Application](https://github.com/shreyakantha/SCT_WD_3)
 
