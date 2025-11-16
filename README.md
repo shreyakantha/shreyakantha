@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Tic-Tac-Toe Web Application](https://github.com/shreyakantha/SCT_WD_3)<br><br>
 - 🌱 I’m currently learning **Javascript**<br><br>
-- 💬 Ask me about **HTML,CSS**<br><br>
+- 💬 Ask me about **HTML, CSS**<br><br>
 - 📫 How to reach me **shreyakantha348@gmail.com**<br><br>
 
 ## 🌐 Socials :
