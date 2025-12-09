@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" height="280" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=Profile%20views&color=ff1493&style=flat" alt="shreyakantha" /> </p>
 
-- 🔭 I’m currently working on [Python-based Stock Portfolio Tracker]([https://github.com/shreyakantha/SCT_WD_4](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker))<br><br>
+ I’m currently working on [Tic-Tac-Toe Web Application](https://github.com/shreyakantha/SCT_WD_4)<br><br>
 - 🌱 I’m currently learning **Javascript**<br><br>
 - 💬 Ask me about **HTML, CSS**<br><br>
 - 📫 How to reach me **shreyakantha348@gmail.com**<br><br>
