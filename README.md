@@ -1,21 +1,17 @@
 <img align="center" alt="coding" width="1000" height="200" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif">
-
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!👋🏻+;+I'm+Shreya+Kantha.;Learning+by+building" />
 </h2>
 
 <h3 align="center">Frontend developer • UI/UX enthusiast</h3>
-
-<img align="right" alt="coding" width="380" height="260" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-
+<img align="right" alt="coding" width="350" height="230" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=visitors&color=ff1493&style=flat" alt="shreyakantha" /> </p>
 
-- 🔭 Currently working on [Python-Based Stock Portfolio Tracker](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)<br>
+- 🔭 Currently working on [Calculator](https://github.com/shreyakantha/web-calculator) <br>
 - 🌱 Currently learning **DSA in Java**, **React.js** and **figma make**.<br>
 - 💬 Ask me about **HTML, CSS**.<br>
 - ⚡ Fun fact **I learn quicker under pressure**.<br>
 <!-- 📄 Know about my experiences [click to view my resume]()-->
-  <br/>
  </div>
 <div align="left"> 
   <a href="mailto:shreyakantha348@gmail.com">
