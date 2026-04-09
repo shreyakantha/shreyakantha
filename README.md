@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="350" height="230" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakantha&label=visitors&color=ff1493&style=flat" alt="shreyakantha" /> </p>
 
-- 🔭 Currently working on [Calculator](https://github.com/shreyakantha/paanch-phoron) <br>
+- 🔭 Currently working on [restaurant-billing-system](https://github.com/shreyakantha/paanch-phoron) <br>
 - 🌱 Currently learning **DSA in Java**, **React.js** and **figma make**.<br>
 - 💬 Ask me about **HTML, CSS**.<br>
 - ⚡ Fun fact **I learn quicker under pressure**.<br>
